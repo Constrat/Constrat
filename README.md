@@ -1,5 +1,5 @@
 # I'm David
-##### Currently a $2^{nd}$ year Electronics & Computer Engineering student at the University of Ferrara.
+Currently a $2^{nd}$ year Electronics & Computer Engineering student at the University of Ferrara.
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Constrat&show_icons=true&theme=dark">
 
