@@ -1,14 +1,11 @@
 # I'm David
 Currently a $2^{nd}$ year Electronics & Computer Engineering student at the University of Ferrara.
 ## Skills
-| I'm knowledgeable | I'm learning |
-| - |- |
-| ![](https://skillicons.dev/icons?i=c,java,js,powershell,php&theme=dark&perline=3)|![](https://skillicons.dev/icons?i=cs,cpp,dotnet,py&dark=light&perline=3)|
+| I'm knowledgeable | I'm learning | I use |
+| - | - | - |
+| ![](https://skillicons.dev/icons?i=c,java,js,powershell,php&theme=dark&perline=3)|![](https://skillicons.dev/icons?i=cs,cpp,dotnet,py&dark=light&perline=3)| ![](https://skillicons.dev/icons?i=vscode,visualstudio,eclipse,discord,github,git&theme=dark&perline=3)|
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Constrat&show_icons=true&theme=dark">
-
-## Tools
-![](https://skillicons.dev/icons?i=vscode,visualstudio,eclipse,discord,github,git&theme=dark)
+<img width="450" align="right" src="https://github-readme-stats.vercel.app/api?username=Constrat&show_icons=true&theme=dark">
 
 ## Systems
 
