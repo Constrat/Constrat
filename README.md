@@ -1,16 +1,16 @@
 ## I'm David
 
 ### My statistics
-![image](https://github-readme-stats.vercel.app/api?username=Constrat&show_icons=true&theme=dark)
+<img src=https://github-readme-stats.vercel.app/api?username=Constrat&show_icons=true&theme=dark>
 
 ### Skills
-![](https://skillicons.dev/icons?i=c,java,js,py,powershell,php&theme=light&perline=3)
+![](https://skillicons.dev/icons?i=c,java,js,py,powershell,php&theme=dark&perline=3)
 
 ### Learning 
-![](https://skillicons.dev/icons?i=cs,cpp,dotnet&theme=light&perline=3)
+![](https://skillicons.dev/icons?i=cs,cpp,dotnet&dark=light&perline=3)
 
 ### Tools
-![](https://skillicons.dev/icons?i=vscode,visualstudio,eclipse,discord,github,git,&theme=light&perline=3)
+![](https://skillicons.dev/icons?i=vscode,visualstudio,eclipse,discord,github,git,&theme=dark&perline=3)
 
 
 ### Systems
