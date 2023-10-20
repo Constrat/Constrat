@@ -5,7 +5,7 @@ Currently a $2^{nd}$ year Electronics & Computer Engineering student at the Univ
 | - | - | - |
 | ![](https://skillicons.dev/icons?i=c,java,js,powershell,php&theme=dark&perline=3)|![](https://skillicons.dev/icons?i=cs,cpp,dotnet,py,githubactions&dark=light&perline=3)|![](https://skillicons.dev/icons?i=vscode,visualstudio,eclipse,discord,github,git&theme=dark&perline=3)|
 
-<img width="450" align="right" src="https://github-readme-stats.vercel.app/api?username=Constrat&show_icons=true&theme=dark">
+<img width="350" align="right" src="https://github-readme-stats.vercel.app/api?username=Constrat&show_icons=true&theme=dark">
 
 ## Systems
 
