@@ -7,7 +7,6 @@ Currently a $2^{nd}$ year Electronics & Computer Engineering student at the Univ
 
 <img width="430" align="right" src="https://github-readme-stats.vercel.app/api?username=Constrat&show_icons=true&theme=dark">
 
-
 ## Systems
 
 Main Machine<br>![](https://img.shields.io/badge/Strix_G17-000?logo=republicofgamers&logoColor=FF0029) ![](https://img.shields.io/badge/Ryzen_9_6900HX-000?logo=amd&logoColor=fff) ![](https://img.shields.io/badge/RTX_3070_Ti-000?logo=nvidia)<br>![](https://img.shields.io/badge/Windows_11_x64-0078D4?logo=windows11&logoColor=fff)
