@@ -1,5 +1,5 @@
 # I'm David
-Currently a $2^{nd}$ year Electronics & Computer Engineering student at the University of Ferrara.
+Currently a 2<sup>nd</sup> year Electronics & Computer Engineering student at the University of Ferrara.
 <!--## Skills
 | I'm knowledgeable | I'm learning | I use |
 | - | - | - |
