@@ -1,5 +1,3 @@
-# I'm David
-Currently a 3<sup>rd</sup> year Electronics & Computer Engineering student at the University of Ferrara.
 <!--## Skills
 | I'm knowledgeable | I'm learning | I use |
 | - | - | - |
