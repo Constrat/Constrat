@@ -2,7 +2,7 @@
 | I'm knowledgeable | I'm learning | I use |
 | - | - | - |
 | ![](https://skillicons.dev/icons?i=c,java,js,powershell,php&theme=dark&perline=3)|![](https://skillicons.dev/icons?i=cs,cpp,dotnet,py,githubactions&dark=light&perline=3)|![](https://skillicons.dev/icons?i=vscode,visualstudio,eclipse,discord,github,git&theme=dark&perline=3)|-->
-### Hello
+### Hello!
 I am a 3<sup>rd</sup> year Electronics & Computer Engineering student at the University of Ferrara.
 
 ### Systems
